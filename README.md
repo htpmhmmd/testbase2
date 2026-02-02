@@ -25,3 +25,4 @@ go
 senior
 bukadar
 kolay
+sizde
