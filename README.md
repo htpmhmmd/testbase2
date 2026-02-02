@@ -4,6 +4,7 @@ test.blokchain
 test.base
 rare.base
 soft
+solana
 safu
 ada
 hahaha
