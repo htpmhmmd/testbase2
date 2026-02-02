@@ -24,3 +24,4 @@ nana
 go
 senior
 bukadar
+kolay
