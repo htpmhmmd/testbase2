@@ -19,3 +19,4 @@ boom
 lam
 kat
 krt
+lamam
