@@ -5,6 +5,7 @@ test.base
 rare.base
 soft
 safu
+ada
 hahaha
 shjdsajk
 update
