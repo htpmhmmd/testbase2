@@ -6,6 +6,7 @@ rare.base
 soft
 safu
 hahaha
+update
 rektguys
 relay.come.eth
 btc
