@@ -7,6 +7,7 @@ soft
 safu
 hahaha
 update
+harakiri
 rektguys
 relay.come.eth
 btc
