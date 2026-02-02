@@ -9,3 +9,8 @@ rektguys
 relay.come.eth
 btc
 xrp
+opensea
+magiceden
+chrome
+salla
+coming
