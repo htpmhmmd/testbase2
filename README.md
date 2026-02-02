@@ -5,6 +5,7 @@ test.base
 rare.base
 soft
 safu
+hahaha
 rektguys
 relay.come.eth
 btc
