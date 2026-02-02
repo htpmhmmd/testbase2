@@ -26,3 +26,4 @@ senior
 bukadar
 kolay
 sizde
+uğraşmayın 
