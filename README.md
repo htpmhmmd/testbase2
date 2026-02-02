@@ -27,3 +27,4 @@ bukadar
 kolay
 sizde
 uğraşmayın 
+laannnn
