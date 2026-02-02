@@ -27,4 +27,4 @@ bukadar
 kolay
 sizde
 uğraşmayın 
-jojo
+jokey
