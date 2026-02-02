@@ -24,6 +24,7 @@ nana
 go
 50
 senior
+4
 bukadar
 kolay
 sizde
