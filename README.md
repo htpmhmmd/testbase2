@@ -22,6 +22,7 @@ krt
 lamam
 nana
 go
+50
 senior
 bukadar
 kolay
