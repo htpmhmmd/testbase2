@@ -28,3 +28,4 @@ kolay
 sizde
 uğraşmayın 
 jokey
+rekt
