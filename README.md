@@ -6,3 +6,6 @@ rare.base
 soft
 safu
 rektguys
+relay.come.eth
+btc
+xrp
