@@ -32,6 +32,7 @@ go
 senior
 4
 bukadar
+fhfgjgf
 kolay
 sizde
 uğraşmayın 
